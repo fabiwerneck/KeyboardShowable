@@ -1,2 +1,1 @@
 # KeyboardShowable
-Keyboard handle protocol
